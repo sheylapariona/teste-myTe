@@ -1,0 +1,16 @@
+.sidebar{
+    display: flex;
+    
+    background-color: white;
+    width: 120px;
+    height: 900px;
+    margin-left: 0.5%;
+        
+}
+
+.icons{
+    margin-top: 80px;
+    margin-left: 25px;
+    height: 80px;
+}
+
